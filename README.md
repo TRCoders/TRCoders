@@ -1,3 +1,2 @@
-Hello, I'm Tyler Robinson!
+<h1>Hello, my name is Tyler Robinson and welcome to my Github!</h1>
 
-<img src="Banner.jpg">
