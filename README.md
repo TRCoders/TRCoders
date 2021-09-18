@@ -11,3 +11,6 @@
   <li>Git</li>
   <li>C++</li>
 </ul>
+
+<h2>Contacts</h2>
+<a href="#">Twitter<a>
