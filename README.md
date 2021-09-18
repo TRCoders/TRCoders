@@ -4,5 +4,10 @@
 
 <h2>Skills</h2>
 <ul>
+  <li>HTML5</li>
+  <li>CSS</li>
   <li>Javascript</li>
+  <li>Python</li>
+  <li>Git</li>
+  <li>C++</li>
 </ul>
