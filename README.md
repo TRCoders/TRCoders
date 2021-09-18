@@ -13,7 +13,7 @@
 </ul>
 
 <h2>Contacts</h2>
-<a href="https://twitter.com/TylerALRobinson">Twitter | <a>
+<a href="https://twitter.com/TylerALRobinson">Twitter<a>
 <a href="https://www.linkedin.com/in/tyler-robinson-
-30ab25219/">Linkedin | <a>
+30ab25219/">Linkedin<a>
 <a href="https://tylerrobinson.netlify.app/">Portfolio<a>
