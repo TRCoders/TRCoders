@@ -10,6 +10,11 @@
   <li>Python</li>
   <li>Git</li>
   <li>C++</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>MongoDB</li>
+  <li>Socket.io</li>
+  <li>React</li>
 </ul>
 
 <h2>Contacts</h2>
